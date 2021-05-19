@@ -5,11 +5,14 @@ I am going to join Amazon as a research scientist in July 2021. I got my Ph.D. (
 
 My research interests focus on the tensor learning and multi-armed bandits. 
 
+My email is jiezhoumao@gmail.com.
+
 ## Publications
 1. [Partially Observed Dynamic Tensor Response Regression](https://arxiv.org/abs/2002.09735)
 
    **Jie Zhou**, Will Wei Sun, Jingfei Zhang, Lexin Li
 
 2. Low-rank Tensor Bandits
+ 
 
 
