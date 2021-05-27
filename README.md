@@ -11,7 +11,8 @@ My email is jiezhoumao@gmail.com.
 1. [Partially Observed Dynamic Tensor Response Regression](https://arxiv.org/abs/2002.09735)
 
    **Jie Zhou**, Will Wei Sun, Jingfei Zhang, Lexin Li
-
+   
+   *Journal of the American Statistical Association, 2021*
 2. Low-rank Tensor Bandits
  
 
